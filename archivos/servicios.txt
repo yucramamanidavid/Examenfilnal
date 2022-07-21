@@ -1,0 +1,3 @@
+01;Sauna;Bapor, caliente, Relajante muscular;S/35.00 soles;Max 2 Horas
+02;Ducha;Frio Caliente, Resbaladizo, Mojado;S/5.00 soles;Max 30 minutos
+03;Piscina;Grande, Gran cantidad de agua, Nadar;S/15.00 soles;1 a 5 Horas
